@@ -1,1 +1,4 @@
-konvy
+*
+!.gitignore
+!localhost/index.html
+!localhost/phpinfo.php
