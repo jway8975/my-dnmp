@@ -1,1 +1,5 @@
 .env
+/logs
+/data/mysql
+/data/redis
+/data/composer
